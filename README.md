@@ -65,4 +65,7 @@ All ratio metrics were calculated using aggregated totals to ensure accurate bus
 - Ability to distinguish between volume and efficiency trade-offs
 - Business-focused data storytelling
 ---
+## 📊 Dashboard Preview
+
+![Advertising Performance Dashboard](ad_campaign_dashboard_overview.png)
 
