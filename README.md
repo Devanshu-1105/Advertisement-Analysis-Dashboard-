@@ -67,5 +67,5 @@ All ratio metrics were calculated using aggregated totals to ensure accurate bus
 ---
 ## 📊 Dashboard Preview
 
-![Advertising Performance Dashboard](ad_campaign_dashboard_overview.png)
+![Advertising Performance Dashboard](ad_campaign_dashboard.png)
 
